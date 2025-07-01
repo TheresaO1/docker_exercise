@@ -1,0 +1,5 @@
+services:
+  ppe:
+    image:theresa01/ppe:v1.0.0
+  container_name: ppe container
+ports: 3001:3000
